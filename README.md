@@ -108,9 +108,3 @@ We welcome contributions to improve the system, add new features, or fix bugs. P
 ## Disclaimer
 
 This project is not affiliated with, endorsed by, or sponsored by LeetCode. It is an independent tool created to help LeetCode users practice more efficiently. Please use responsibly and in accordance with LeetCode's terms of service.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/leetcode-contest-filter](https://github.com/yourusername/leetcode-contest-filter)
